@@ -1,5 +1,8 @@
-# 💫 About Me:
-i am working on java development, machine learning and cyber secuirty.<br>i am interested in desktop software development, cyber security.<br>reach me through mail:abhitashhero@gmail.com, linkdlin<br>my pronouns are he/him<br>fun fact i am a guitarist and a artist
+# I'm a Java developer, machine learning enthusiast, and passionate about cybersecurity. My primary focus is on desktop software development and cybersecurity solutions, blending creativity and logic to craft impactful projects.
+
+🎸 Fun fact: I'm also a guitarist and an artist who loves combining art with technology.
+📧 Reach me at: abhitashhero@gmail.com
+💼 Connect with me on LinkedIn
 
 
 # 💻 Tech Stack:
